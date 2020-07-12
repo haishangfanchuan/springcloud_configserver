@@ -1,2 +1,2 @@
 springCloud:
-  configServer: config-test.yml
+  configServer: config-test.yml version=1
